@@ -1,0 +1,5 @@
+*.o
+*.so
+*.bin
+src/gpio.h
+doc/
